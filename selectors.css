@@ -36,7 +36,7 @@ section:nth-child(3) div{
     height: 50px;
     display: inline-block;
     margin: 5px;
-    background-color: green;
+    background-color: red;
 }
 
 section:nth-child(3) div::before {
