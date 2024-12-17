@@ -90,7 +90,7 @@ section:nth-child(4) div:nth-of-type(5) div:nth-child(n+7) {
     background-color: orange;
 }
 
-section:nth-child(4) div:nth-of-type(6) div:nth-child(n+2) {
+section:nth-child(4) div:nth-of-type(6) div:nth-child(n+10) {
     background-color: orange;
 }
 
